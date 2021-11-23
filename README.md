@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RiCkSaNcHeZ162
+- 👋 Hi, I’m Swanand
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning deep learning
 - 💞️ I’m looking to collaborate on ...
